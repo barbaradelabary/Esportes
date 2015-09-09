@@ -1,0 +1,33 @@
+body{
+	font-family: arial;
+	color: black;
+	background-color: #D8D8D8;
+	
+}
+p{
+	text-align: justify;
+	font-size: 12px;
+	margin-left: 5px;
+	margin-top: 10px;
+}
+h1,h2,h5{
+	text-transform: uppercase;
+	text-align: right;
+}
+.surf{
+	background-color: #87CEFA;
+}
+.futebol{
+	font-size: 30px;
+}
+.internacional{
+	text-decoration: italic;
+	color: red;
+}
+.gremio{
+	color: blue;
+}
+	
+.cbf{
+	color: yellow;
+}
